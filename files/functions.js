@@ -38,6 +38,6 @@ $(window).resize(function() {
 })(jQuery);
 
 function timeElapse(date){
-	var result = "愿你能一直像背景中的民咕咕一样，天天开开心心！！！";
+	var result = "愿你能一直有一颗纯真的心，开开心心！！！难过的时候给自己吃一颗糖，告诉自己生活是甜的。";
 	$("#clock").html(result);
 }
